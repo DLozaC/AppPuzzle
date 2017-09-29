@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppPuzzle1341</string>
+    <string name="btn_mezclar">Mezclar</string>
+    <string name="btn_salir">Salir</string>
+    <string name="texto_tipo">Tipo</string>
+    <string name="texto_imagen">Imagen</string>
+    <string name="btn_creditos">Créditos</string>
+    <string-array name="opciones">
+        <item>Seleccione una opción...</item>
+        <item>Números</item>
+        <item>Android</item>
+        <item>Goku</item>
+        <item>DBZ</item>
+        <item>Mario</item>
+        <item>Payaso</item>
+        <item>Sombrero</item>
+        <item>Favorita</item>
+    </string-array>
+    <string-array name="tipos">
+        <item>Seleccione un tipo...</item>
+        <item>Libre</item>
+        <item>Clásico</item>
+        <item>Circular</item>
+    </string-array>
+</resources>
